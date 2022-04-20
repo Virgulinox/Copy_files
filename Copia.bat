@@ -1,6 +1,6 @@
 @ECHO OFF
-SET ORIGEM=C:\Users\Daniel\Desktop\Origem
-SET DESTINO=C:\Users\Daniel\Desktop\DEstino
+SET ORIGEM= ::Path to copy
+SET DESTINO= :: Path to paste
 
 ::LIMPA OS LOGS
 DEL COPIADO.LOG /Q
